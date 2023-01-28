@@ -369,3 +369,8 @@ Code/ThirdParty/wwise/SDK/x64_vc170/Profile(StaticCRT)/lib/AkGainFX.lib
 *.lib
 *.lib
 Code/ThirdParty/EA/EASTL/Doc/EASTL-n2271.pdf
+
+
+# QT Stuff
+
+qt/

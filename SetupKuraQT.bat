@@ -3,3 +3,5 @@ echo "Grabbing KuraQt. This might take a while,depending on the system. is this 
 mkdir qt
 cd qt
 git clone https://github.com/KuraStudios/qt.git
+cd qt
+build.bat
